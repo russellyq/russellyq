@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a Reseach Associate working on Multi-Modal Sensor Fusion for 3D Object Detection
-- 🌱 My resaerch interests cover 3D understanding/perception, including 3D object detection, semantic segmantation, classification, reconstruction.
+- 🌱 My research interests cover 3D understanding/perception, including 3D object detection, semantic segmantation, classification, reconstruction.
 - 👯 I’m looking for PhD opportunities !
 - 📫 How to reach me: QIAO003@e.ntu.edu.sg
 <!--
