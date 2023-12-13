@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m an incoming Reseach Assistant to CUHK, working on Multi-Modal Sensor Fusion for 3D Object Detection
+- 🔭 I’m an Reseach Assistant to CUHK, working on Multi-Modal Sensor Fusion for 3D Object Detection
 - 🌱 My research interests cover 3D understanding/perception, including 3D object detection, semantic segmantation, classification, reconstruction.
-- 📫 How to reach me: QIAO003@e.ntu.edu.sg
+- 📫 How to reach me: qiaoyan@cuhk.edu.hk
 <!--
 **russellyq/russellyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
