@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a year 1 Ph.D. at CUHK, working on Multi-Modal Sensor Fusion for 3D Object Detection
-- 🌱 My research interests cover 3D understanding/perception, including 3D object detection, semantic segmantation, classification, reconstruction.
+- 🌱 My research interests cover 3D understanding/perception.
 - 📫 How to reach me: 1155225591@link.cuhk.edu.hk
 <!--
 **russellyq/russellyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
