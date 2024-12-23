@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m a year 1 Ph.D. at CUHK, working on Multi-Modal Sensor Fusion for 3D Object Detection
+- 🔭 I’m a year 1 Ph.D. at CUHK.
 - 🌱 My research interests cover 3D understanding/perception.
 - 📫 How to reach me: 1155225591@link.cuhk.edu.hk
 <!--
