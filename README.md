@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m a 2nd year Ph.D student at CUHK.
 - 🌱 My research interests cover Medical VLM, 3D understanding/perception VLM.
-- 📫 How to reach me: 1155225591@link.cuhk.edu.hk or qyan24@cse.cuhk.edu.hk
+- 📫 How to reach me: qiao.yan@link.cuhk.edu.hk or qyan24@cse.cuhk.edu.hk
 <!--
 **russellyq/russellyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
